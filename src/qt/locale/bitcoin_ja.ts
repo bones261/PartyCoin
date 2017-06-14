@@ -14,11 +14,11 @@
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The PartyCoin developers
-Copyright © 2014 The PartyCoin developers</source>
+Copyright © 2014-2017 The BitcoinDark developers
+Copyright © 2017 The PartyCoin developers</source>
         <translation>コピーライト © 2009-2014 The Bitcoin developers
-コピーライト © 2012-2014 The PartyCoin developers
-コピーライト © 2014 The PartyCoin developers</translation>
+コピーライト © 2014-2017 The BitcoinDark developers
+コピーライト © 2017 The PartyCoin developers</translation>
     </message>
     <message>
         <location line="+15"/>

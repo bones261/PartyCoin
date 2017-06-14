@@ -14,8 +14,8 @@
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The PartyCoin developers
-Copyright © 2014 The PartyCoin developers</source>
+Copyright © 2014-2017 The BitcoinDark developers
+Copyright © 2017 The PartyCoin developers</source>
         <translation>Все права защищены © 2009-2014 Разработчики Bitcoin
 Все права защищены © 2012-2014 Разработчики PartyCoin
 Все права защищены © 2014 Разработчики PartyCoin</translation>
